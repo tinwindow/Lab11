@@ -4,13 +4,19 @@ body {
   background-color: #A5F4E8;
   font-family: 'Roboto Mono', monospace;
   text-align: left;
-  overflow: auto; 
+  overflow: auto;
 }
 
 h1 {
   color: #674FBD;
   text-align: center;
   overflow: auto;
+  width: 75%;
+  margin-left: 150px;
+  margin-right: 150px;
+  background-color: #68E8DD;
+  border: 0.5px solid peachpuff;
+  border-radius: 6px;
 }
 
 #main {
